@@ -46,7 +46,8 @@ h1{
     color: white;
     box-shadow: 2px 2px 10px rgb(18, 237, 233), 2px 2px 10px rgb(255, 7, 197);
     border: none;
-    transition: all 0.1s;
+    transition: all 0.5s;
+    cursor: pointer;
 }
 #btn:hover{
     box-shadow: 2px 2px 20px rgb(18, 237, 233), 2px 2px 20px rgb(255, 7, 197);
